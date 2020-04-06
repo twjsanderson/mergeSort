@@ -20,9 +20,6 @@ This application is suppose to act as a primer for Junior Dev's who want to see 
 1. Move into root directory
 2. run node index.js
 
-## Tests
-
-- run npm test
 
 ## Bugs, Issues, Questions
 
